@@ -1,5 +1,4 @@
 <Configuration>
-  <Info />
   <Add OfficeClientEdition="32" Channel="Current">
     <Product ID="O365BusinessRetail">
       <Language ID="fr-fr" />
