@@ -7,9 +7,7 @@
       <ExcludeApp ID="Groove" />
       <ExcludeApp ID="Lync" />
       <ExcludeApp ID="Publisher" />
-    </Product>
-    <Product ID="LanguagePack">
-      <Language ID="fr-fr" />
+      <ExcludeApp ID="Teams" />
     </Product>
   </Add>
   <Updates Enabled="TRUE" />
