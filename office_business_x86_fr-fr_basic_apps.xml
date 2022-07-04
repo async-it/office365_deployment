@@ -8,6 +8,8 @@
       <ExcludeApp ID="OneNote" />
       <ExcludeApp ID="Publisher" />
       <ExcludeApp ID="Lync" />
+	    <ExcludeApp ID="Teams" />
+	    <ExcludeApp ID="Skype" />
     </Product>
     <Product ID="LanguagePack">
       <Language ID="fr-fr" />
