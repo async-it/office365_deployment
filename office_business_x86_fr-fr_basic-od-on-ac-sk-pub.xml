@@ -5,9 +5,6 @@
       <Language ID="fr-fr" />
       <ExcludeApp ID="Groove" />
     </Product>
-    <Product ID="LanguagePack">
-      <Language ID="fr-fr" />
-    </Product>
   </Add>
   <Updates Enabled="TRUE" />
   <RemoveMSI />
