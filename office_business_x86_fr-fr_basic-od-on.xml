@@ -1,5 +1,4 @@
-<Configuration ID="008d430f-2b30-48e8-838e-06abd58365b1">
-  <Info />
+<Configuration>
   <Add OfficeClientEdition="32" Channel="Current">
     <Product ID="O365BusinessRetail">
       <Language ID="fr-fr" />
