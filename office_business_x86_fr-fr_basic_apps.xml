@@ -1,15 +1,15 @@
-<Configuration ID="d2642ab7-de7f-4ff8-b37f-7dcbd09116c3">
+<Configuration>
   <Add OfficeClientEdition="32" Channel="Current">
     <Product ID="O365BusinessRetail">
       <Language ID="fr-fr" />
-      <ExcludeApp ID="Access" />
-      <ExcludeApp ID="Groove" />
-      <ExcludeApp ID="OneDrive" />
-      <ExcludeApp ID="OneNote" />
-      <ExcludeApp ID="Publisher" />
-      <ExcludeApp ID="Lync" />
-	    <ExcludeApp ID="Teams" />
-	    <ExcludeApp ID="Skype" />
+	  <ExcludeApp ID="Access" />
+	  <ExcludeApp ID="Groove" />
+	  <ExcludeApp ID="OneDrive" />
+	  <ExcludeApp ID="OneNote" />
+	  <ExcludeApp ID="Publisher" />
+	  <ExcludeApp ID="Lync" />
+	  <ExcludeApp ID="Teams" />
+	  <ExcludeApp ID="Skype" />
     </Product>
     <Product ID="LanguagePack">
       <Language ID="fr-fr" />
