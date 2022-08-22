@@ -3,4 +3,5 @@
     <Display Level="None" AcceptEULA="TRUE" />
     <Logging Level="Standard" Path="%temp%" />
     <Remove All="TRUE" />
+    <Property Name="FORCEAPPSHUTDOWN" Value="TRUE"/>
 </Configuration>
