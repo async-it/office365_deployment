@@ -12,11 +12,11 @@ https://docs.microsoft.com/officeupdates/update-history-office365-proplus-by-dat
 https://www.microsoft.com/download/details.aspx?id=49117
 
 ### Edit one of the needed configuration and set the version as needed:
-´´´shell
+```shell
 <Configuration>
 <Updates Enabled="TRUE" TargetVersion="16.0.xxxxx.yyyyy" />
 </Configuration>
-´´´
+```
 
 ### Install
 setup.exe /configure config.xml
