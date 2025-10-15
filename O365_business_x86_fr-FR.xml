@@ -4,7 +4,7 @@
       <Language ID="fr-fr" />
       <ExcludeApp ID="OutlookForWindows" />
     </Product>
-      <Product ID="LanguagePack">
+    <Product ID="LanguagePack">
       <Language ID="fr-fr" />
     </Product>
   </Add>
