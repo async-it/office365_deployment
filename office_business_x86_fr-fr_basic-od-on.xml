@@ -7,6 +7,7 @@
       <ExcludeApp ID="Lync" />
       <ExcludeApp ID="Publisher" />
       <ExcludeApp ID="Teams" />
+      <ExcludeApp ID="OutlookForWindows"/>
     </Product>
   </Add>
   <Updates Enabled="TRUE" />
@@ -17,3 +18,4 @@
     <User Key="software\microsoft\office\16.0\word\options" Name="defaultformat" Value="" Type="REG_SZ" App="word16" Id="L_SaveWordfilesas" />
   </AppSettings>
 </Configuration>
+
