@@ -6,6 +6,7 @@
       <ExcludeApp ID="Groove" />
       <ExcludeApp ID="Publisher" />
       <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OutlookForWindows" />
     </Product>
   </Add>
   <Updates Enabled="TRUE" />
