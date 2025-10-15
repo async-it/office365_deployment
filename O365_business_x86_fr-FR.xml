@@ -2,6 +2,7 @@
   <Add OfficeClientEdition="32" Channel="MonthlyEnterprise">
     <Product ID="O365BusinessRetail">
       <Language ID="fr-fr" />
+      <ExcludeApp ID="OutlookForWindows" />
     </Product>
   </Add>
   <AppSettings>
