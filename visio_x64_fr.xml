@@ -1,0 +1,10 @@
+<Configuration ID="69b39731-d8ce-4169-9c58-fbadfd6ffaa4">
+  <Add OfficeClientEdition="64" Channel="MonthlyEnterprise" MigrateArch="TRUE">
+    <Product ID="VisioProRetail">
+      <Language ID="fr-fr" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="OneDrive" />
+    </Product>
+  </Add>
+  <Updates Enabled="TRUE" />
+</Configuration>
