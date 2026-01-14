@@ -2,8 +2,6 @@
   <Add OfficeClientEdition="64" Channel="MonthlyEnterprise" MigrateArch="TRUE">
     <Product ID="VisioProRetail">
       <Language ID="fr-fr" />
-      <ExcludeApp ID="Groove" />
-      <ExcludeApp ID="OneDrive" />
     </Product>
   </Add>
   <Updates Enabled="TRUE" />
